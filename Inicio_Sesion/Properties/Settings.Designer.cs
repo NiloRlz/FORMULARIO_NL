@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Inicio_Sesion.Properties
+namespace inicio_de_sesion_2.Properties
 {
 
 

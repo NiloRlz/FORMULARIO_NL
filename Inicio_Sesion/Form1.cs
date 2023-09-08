@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Inicio_Sesion
+namespace inicio_de_sesion_2
 {
     public partial class Form1 : Form
     {
