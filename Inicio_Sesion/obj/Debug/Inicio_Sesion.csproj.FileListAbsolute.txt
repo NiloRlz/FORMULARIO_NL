@@ -1,0 +1,11 @@
+C:\Users\Alumno\Desktop\NL_FORM_CS\Inicio_Sesion\bin\Debug\Inicio_Sesion.exe.config
+C:\Users\Alumno\Desktop\NL_FORM_CS\Inicio_Sesion\bin\Debug\Inicio_Sesion.exe
+C:\Users\Alumno\Desktop\NL_FORM_CS\Inicio_Sesion\bin\Debug\Inicio_Sesion.pdb
+C:\Users\Alumno\Desktop\NL_FORM_CS\Inicio_Sesion\obj\Debug\Inicio_Sesion.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\NL_FORM_CS\Inicio_Sesion\obj\Debug\Inicio_Sesion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Desktop\NL_FORM_CS\Inicio_Sesion\obj\Debug\Inicio_Sesion.Form1.resources
+C:\Users\Alumno\Desktop\NL_FORM_CS\Inicio_Sesion\obj\Debug\Inicio_Sesion.Properties.Resources.resources
+C:\Users\Alumno\Desktop\NL_FORM_CS\Inicio_Sesion\obj\Debug\Inicio_Sesion.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\NL_FORM_CS\Inicio_Sesion\obj\Debug\Inicio_Sesion.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\NL_FORM_CS\Inicio_Sesion\obj\Debug\Inicio_Sesion.exe
+C:\Users\Alumno\Desktop\NL_FORM_CS\Inicio_Sesion\obj\Debug\Inicio_Sesion.pdb
