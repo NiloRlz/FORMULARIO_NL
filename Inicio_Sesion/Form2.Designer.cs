@@ -54,7 +54,7 @@
             // 
             // cerrar2
             // 
-            this.cerrar2.BackColor = System.Drawing.Color.Red;
+            this.cerrar2.BackColor = System.Drawing.Color.Gray;
             this.cerrar2.ForeColor = System.Drawing.Color.White;
             this.cerrar2.Location = new System.Drawing.Point(394, 12);
             this.cerrar2.Name = "cerrar2";
@@ -117,7 +117,7 @@
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(144, 50);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(137, 103);
+            this.pictureBox1.Size = new System.Drawing.Size(137, 109);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 6;
             this.pictureBox1.TabStop = false;
