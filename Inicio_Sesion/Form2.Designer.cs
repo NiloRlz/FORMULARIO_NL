@@ -104,7 +104,7 @@
             this.registrar1.BackColor = System.Drawing.Color.Gray;
             this.registrar1.Font = new System.Drawing.Font("Yu Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.registrar1.ForeColor = System.Drawing.Color.White;
-            this.registrar1.Location = new System.Drawing.Point(144, 348);
+            this.registrar1.Location = new System.Drawing.Point(144, 359);
             this.registrar1.Name = "registrar1";
             this.registrar1.Size = new System.Drawing.Size(111, 45);
             this.registrar1.TabIndex = 5;
@@ -117,7 +117,7 @@
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(144, 50);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(137, 109);
+            this.pictureBox1.Size = new System.Drawing.Size(132, 117);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 6;
             this.pictureBox1.TabStop = false;
