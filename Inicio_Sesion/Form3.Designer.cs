@@ -34,6 +34,7 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.btnURL = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
+            this.textBox2 = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -76,25 +77,36 @@
             this.btnURL.BackColor = System.Drawing.Color.DodgerBlue;
             this.btnURL.FlatAppearance.BorderSize = 0;
             this.btnURL.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnURL.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnURL.Location = new System.Drawing.Point(520, 389);
+            this.btnURL.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnURL.Location = new System.Drawing.Point(407, 387);
             this.btnURL.Name = "btnURL";
-            this.btnURL.Size = new System.Drawing.Size(126, 49);
+            this.btnURL.Size = new System.Drawing.Size(239, 51);
             this.btnURL.TabIndex = 4;
-            this.btnURL.Text = "MATRICULAR";
+            this.btnURL.Text = "MATRICULAR AHORA";
             this.btnURL.UseVisualStyleBackColor = false;
             this.btnURL.Click += new System.EventHandler(this.button1_Click_1);
             // 
             // textBox1
             // 
-            this.textBox1.Font = new System.Drawing.Font("Perpetua Titling MT", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(94, 90);
+            this.textBox1.Font = new System.Drawing.Font("Perpetua Titling MT", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox1.Location = new System.Drawing.Point(96, 69);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(457, 35);
+            this.textBox1.Size = new System.Drawing.Size(457, 49);
             this.textBox1.TabIndex = 5;
             this.textBox1.Text = "¡BIENVENIDO SENATINO¡";
             this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox2
+            // 
+            this.textBox2.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox2.ForeColor = System.Drawing.SystemColors.HotTrack;
+            this.textBox2.Location = new System.Drawing.Point(12, 341);
+            this.textBox2.Multiline = true;
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(370, 97);
+            this.textBox2.TabIndex = 6;
+            this.textBox2.Text = "CONOCE NUESTRAS CARRERAS TÉCNICAS DE GRAN DEMANDA LABORAL";
             // 
             // Form3
             // 
@@ -102,6 +114,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DarkGray;
             this.ClientSize = new System.Drawing.Size(658, 450);
+            this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.btnURL);
             this.Controls.Add(this.pictureBox1);
@@ -125,5 +138,6 @@
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Button btnURL;
         private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox textBox2;
     }
 }
